@@ -1,0 +1,2 @@
+# BlackFriday_EDA_FeatureEng_LinearRegression
+Predicting Purchase values using the BalckFriday dataset
